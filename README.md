@@ -16,6 +16,18 @@ During the project, several Natural Language Processing (NLP) preprocessing step
 
 After preprocessing, multiple Machine Learning and Deep Learning models were trained and compared.
 
+## Dataset Information
+
+The original datasets used in this project are relatively large. Therefore, sample datasets are included in this repository.
+
+Original datasets can be accessed from the following links:
+
+English Fake Review Dataset:
+https://www.kaggle.com/datasets/sathishcrispsystem/fake-product-review
+
+Turkish Review Dataset:
+https://www.kaggle.com/datasets/cebeci/turkishreviews
+
 ## Models Used
 
 * Logistic Regression
